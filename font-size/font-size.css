@@ -1,0 +1,9 @@
+#one {
+    font-size: 25px;
+    line-height: 50px;
+    text-transform: capitalize;
+}
+#three{
+font-size: 1px;
+text-transform: lowercase;
+}
