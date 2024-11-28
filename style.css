@@ -1,0 +1,19 @@
+*{
+    color: pink;
+}
+
+button{
+    color: green;
+}
+p{
+    color: brown;
+}
+#headingOne{
+    color: #ff0000;
+}
+#headingTwo{
+    color: rgba(0, 255,0);
+}
+.myClass{
+    color:blue;
+}
